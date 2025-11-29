@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Storm Forecast – [Theme]"
-date: YYYY-MM-DD
+date: "YYYY-MM-DD" <!-- Replace with an appropriate date and remove quotation marks. -->
 categories: forecast
 ---
 

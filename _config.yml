@@ -20,7 +20,7 @@
 
 title: "The Wynter Storm Watch"
 description: "The official home of DJ Wynter Serenade’s Storm Forecasts, events, and community."
-theme: minima
+theme: jekyll-theme-midnight
 baseurl: ""
 url: "https://YOURUSERNAME.github.io"
 
