@@ -19,16 +19,14 @@
 # in the templates via {{ site.myvariable }}.
 
 title: "The Wynter Storm Watch"
-tagline: "DJ Wynter Serenade's Official Home"
 description: "The official home of DJ Wynter Serenade’s Storm Forecasts, events, and community."
-remote_theme: pages-themes/midnight@v0.2.0
+theme: minima
 baseurl: ""
 url: "https://YOURUSERNAME.github.io"
 
 plugins:
 - jekyll-feed
 - jekyll-seo-tag
-- jekyll-remote-theme
 
 collections:
   forecasts:
