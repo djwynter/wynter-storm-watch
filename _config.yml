@@ -19,14 +19,16 @@
 # in the templates via {{ site.myvariable }}.
 
 title: "The Wynter Storm Watch"
+tagline: "DJ Wynter Serenade's Official Home"
 description: "The official home of DJ Wynter Serenade’s Storm Forecasts, events, and community."
-theme: jekyll-theme-midnight
+remote_theme: pages-themes/midnight@v0.2.0
 baseurl: ""
 url: "https://YOURUSERNAME.github.io"
 
 plugins:
 - jekyll-feed
 - jekyll-seo-tag
+- jekyll-remote-theme
 
 collections:
   forecasts:
@@ -35,8 +37,6 @@ collections:
   photostorm:
     output: true
     permalink: /photostorm/:title/
-
-github_username: jekyll
 
 # Exclude from processing.
 # The following items will not be processed, by default.
