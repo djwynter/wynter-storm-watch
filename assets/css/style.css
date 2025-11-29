@@ -1,0 +1,18 @@
+body {
+    background: #101721 url('../images/frost-bg.jpg') no-repeat center top fixed;
+    background-size: cover;
+    color: #DDEEFF;
+    font-family: 'Inter', sans-serif;
+}
+
+h1, h2, h3, h4 {
+    color: #93F2FF;
+    text-shadow: 0 0 5px rgba(147, 242, 255, 0.75);
+}
+
+a {
+    color: #C6BDF0;
+}
+a:hover {
+    color: #93F2FF;
+}
